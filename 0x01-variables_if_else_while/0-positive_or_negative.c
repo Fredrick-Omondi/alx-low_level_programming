@@ -21,3 +21,4 @@ printf("%d is zero\n", n);
 else
 print("%d is positive\n", n);
 return (0);
+}
