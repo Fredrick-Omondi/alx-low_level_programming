@@ -1,5 +1,5 @@
 #include "main.h"
-#define NULL 0
+#define 0
 
 /**
  * _strpbrk - a function that searches a
