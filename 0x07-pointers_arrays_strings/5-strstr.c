@@ -1,5 +1,5 @@
 #include "main.h"
-#define NULL 0
+#define 0
 
 /**
  * _strstr - locate and return pointer to first occurence of substring
@@ -34,5 +34,5 @@ return (haystack + i);
 }
 i++;
 }
-return (NULL); /* No match */
+return (0); /* No match */
 }
